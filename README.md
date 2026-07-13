@@ -8,6 +8,10 @@ Hi, I'm <a href="https://github.com/adilrahman"> Andres Contreras </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ANDresC-1A&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ANDresC-1A&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,django,unity,mysql,git,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ANDresC-1A&theme=tokyonight&hide_border=true" />
+</p>
+
