@@ -14,5 +14,3 @@ Hi, I'm <a href="https://github.com/adilrahman"> Andres Contreras </a>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANDresC-1A&theme=tokyonight&hide_border=true" />
 </p>
-
- aca no pse pondria?
