@@ -1,16 +1,16 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="480" alt="Pixel art banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=180&section=header&text=Andr%C3%A9s%20Contreras&fontSize=38&fontColor=ffffff&fontAlignY=35" width="100%" alt="Andrés Contreras banner">
 </p>
 
 <h1 align="center">
   Hi, I'm <a href="https://github.com/ANDresC-1A">Andrés Contreras</a>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Animated icon">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Animated coding icon">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&width=650&height=55&lines=Systems+Engineering+Student;Frontend+%26+Backend+Developer;Artificial+Intelligence+Enthusiast;Video+Game+Development;Exploring+Cybersecurity;Committed+to+lifelong+learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&width=650&height=55&lines=Systems+Engineering+Student;Frontend+%26+Backend+Developer;Artificial+Intelligence+Enthusiast;Video+Game+Development;Exploring+Cybersecurity;Committed+to+lifelong+learning" alt="Animated introduction">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 </p>
 
-<img align="right" src="https://camo.githubusercontent.com/79c0410bf0683e6d0fc0a09ce3fb76b1fb6811f37867b5485feb504d38990e1f/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" width="180" alt="Cat programming GIF">
+<img align="right" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="180" alt="Cat programming GIF">
 
 ## 👨‍💻 Sobre mí
 
