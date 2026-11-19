@@ -6,7 +6,7 @@
 
 <!-- HERO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn" alt="Andrés Contreras"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn" alt="Andrés Contreras <>"/>
 </p>
 
 <p align="center">
