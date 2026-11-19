@@ -24,7 +24,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me"></picture> SOBRE MÍ
 
 <p align="center">
-  <code>root :~ 
+  <code> <>
 </p>
 
 > ¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología. 💻
