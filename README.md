@@ -21,21 +21,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 </p>
 
-## 👨‍💻 SOBRE MÍ
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me"></picture> SOBRE MÍ
 
-```css
-> root :~ whoami
-```
+<p align="center">
+  <code>root :~ whoami</code>
+</p>
 
-```python
-> ¡Hola! Soy Andrés Contreras, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología. 💻
-
+> ¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología. 💻
+>
 > Me gusta transformar ideas en proyectos reales, especialmente mediante el desarrollo frontend, el diseño de interfaces y la integración de soluciones tecnológicas. 🚀
-
+>
 > También me interesa explorar la inteligencia artificial, los videojuegos y la ciberseguridad. Disfruto aprender nuevas herramientas, trabajar en equipo y enfrentar desafíos que me permitan seguir creciendo como desarrollador. 🧠
-
+>
 > Comprometido con el aprendizaje continuo. 💖
-```
+
+<p align="center">
+  <img src="assets/progress90.svg" alt="90% de avance en Ingeniería de Sistemas" width="220">
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
