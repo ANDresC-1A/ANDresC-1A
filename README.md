@@ -43,6 +43,24 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 ---
 
+## 🎓 Formación académica
+
+**Ingeniería de Sistemas**
+
+<badge>90 % de avance académico</badge>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRESO_UNIVERSITARIO-90%25-10B981?style=for-the-badge&labelColor=0B1220" alt="90% de avance en Ingeniería de Sistemas"/>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/90/?width=600&color=10B981&suffix=%25" width="100%" alt="Progreso académico del 90%"/>
+</p>
+
+<sub>Actualmente cursando la etapa final de mi formación universitaria en Ingeniería de Sistemas.</sub>
+
+---
+
 ## ✨ Lo que me gusta hacer
 
 <table>
@@ -237,19 +255,11 @@ Incluye registro de usuarios, salas de espera, generación de cartones de 75 bol
   </a>
 </p>
 
-**⏳ Sala de espera**
+**🎱 Partida multijugador**
 
 <p align="center">
   <a href="https://github.com/ANDresC-1A/bingo-claudenova">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/sala.jpeg" width="100%" alt="Bingo ClaudeNova - Sala de espera"/>
-  </a>
-</p>
-
-**👑 Panel administrativo**
-
-<p align="center">
-  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/admin.jpeg" width="100%" alt="Bingo ClaudeNova - Panel administrativo"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/juego.jpeg" width="100%" alt="Bingo ClaudeNova - Partida multijugador en tiempo real"/>
   </a>
 </p>
 
