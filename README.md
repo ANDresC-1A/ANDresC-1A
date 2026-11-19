@@ -1,171 +1,164 @@
- 
-<!-- ===================================================== -->
-<!-- ANDRÉS CONTRERAS | GITHUB PROFILE README              -->
-<!-- DARK / EMERALD / DEVELOPER PORTFOLIO                   -->
-<!-- ===================================================== -->
+ <!-- ═══════════════════════════════════════════════════════ -->
+<!--                  ANDRÉS CONTRERAS                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- HEADER -->
-<p align="center">
-  <img width="100%" height="130" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=130&section=header&text=ANDR%C3%89S%20CONTRERAS&fontSize=34&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" alt="Andrés Contreras"/>
-</p>
+<div align="center">
 
-<!-- ANIMATED INTRODUCTION -->
-<h1 align="center">
-  Hola, soy Andrés Contreras
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Saludo"/>
-</h1>
+  <!-- Animated banner -->
+  <img width="78%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding banner"/>
 
-<p align="center">
+  <h1>Hi 👋, I'm Andrés Contreras</h1>
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=45&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Frontend+%26+Software+Developer;Explorando+Inteligencia+Artificial;Interesado+en+Videojuegos+y+Ciberseguridad;Siempre+aprendiendo+algo+nuevo" alt="Texto animado"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Systems+Engineering+Student;Software+Developer+in+Progress;Frontend+%26+Backend+Development;Interested+in+Artificial+Intelligence;Exploring+Cybersecurity;Building+Ideas+Through+Code" alt="Typing SVG"/>
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANDresC-1A&label=Visitas+al+perfil&color=10B981&style=flat" alt="Visitas al perfil"/>
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ANDresC-1A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/ANDresC-1A?label=Followers&style=flat&color=2ea043" alt="GitHub followers"/>
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Disponible-Para%20aprender%20y%20colaborar-10B981?style=flat-square" alt="Aprendiendo y colaborando"/>
-</p>
+  <p><i>"Si lo puedes imaginar, lo puedes programar."</i></p>
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨🏻‍💻 About Me
 
-<img align="right" width="145" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatito programando"/>
+<img align="right" width="155" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding cat"/>
 
-¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas y apasionado por la tecnología y el desarrollo de software.
+¡Hola! Soy **Andrés Contreras**, estudiante de **Ingeniería de Sistemas**, apasionado por el desarrollo de software y la tecnología.
 
-Me gusta crear interfaces, desarrollar aplicaciones y explorar nuevas tecnologías, especialmente en inteligencia artificial.
+Me gusta transformar ideas en proyectos reales, especialmente mediante el desarrollo frontend, el diseño de interfaces y la integración de soluciones tecnológicas.
 
-También me interesan los videojuegos y la ciberseguridad. Disfruto aprender, experimentar y convertir ideas en soluciones funcionales.
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 💻 Interesado en el desarrollo de software y aplicaciones.
+- 🎨 Me gusta crear interfaces modernas y experiencias digitales.
+- 🧠 Me interesa explorar la inteligencia artificial.
+- 🎮 La tecnología y los videojuegos son dos de mis grandes intereses.
+- 🔐 Actualmente aprendiendo sobre ciberseguridad.
+- 🚀 Siempre buscando nuevos desafíos y conocimientos.
+- 🌱 Creo en aprender, experimentar y mejorar constantemente.
 
 <br clear="right"/>
 
 ---
 
-## 🎓 Formación académica
+## 🛠️ Technologies & Tools
 
-**Ingeniería de Sistemas**
+### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AVANCE%20UNIVERSITARIO-90%25-10B981?style=for-the-badge&labelColor=0B1220" alt="90% de avance universitario"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,typescript,javascript,haskell" alt="Programming languages"/>
 </p>
 
-<p align="center">
-  <sub>En la etapa final de mi formación universitaria.</sub>
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend technologies"/>
 </p>
 
----
+### ⚙️ Backend Development
 
-## 🧰 Tecnologías y herramientas
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend technologies"/>
 </p>
 
-### ⚙️ Backend y bases de datos
+### 🗄️ Databases & GIS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,sqlite,supabase&theme=dark" alt="Backend y bases de datos"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database technologies"/>
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre"/>
 </p>
 
-### 📱 Desarrollo móvil y videojuegos
+### 📱 Mobile Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity&theme=dark" alt="Desarrollo móvil y videojuegos"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development"/>
 </p>
 
-### 🤖 Inteligencia artificial
+### 🧰 Tools & Technologies
 
-<p align="center">
-  <a href="https://openai.com/codex">
-    <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
-  </a>
-  <a href="https://www.anthropic.com/claude">
-    <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  </a>
-  <a href="https://www.deepseek.com/">
-    <img src="https://img.shields.io/badge/DeepSeek-AI-1684FC?style=for-the-badge" alt="DeepSeek"/>
-  </a>
-</p>
-
-### 💻 Lenguajes de programación
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Lenguajes de programación"/>
-</p>
-
-### 🛠️ Herramientas y entornos
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Herramientas de desarrollo"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-Backend%20ORM-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Playwright-Testing-2EAD33?style=for-the-badge" alt="Playwright"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ANDresC-1A&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" alt="Estadísticas de GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDresC-1A&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Lenguajes más utilizados"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANDresC-1A&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="Racha de contribuciones"/>
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ANDresC-1A&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 
-### 🏆 GitHub Trophies
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDresC-1A&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ANDresC-1A&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+  <br/><br/>
 
-### 📈 Actividad en GitHub
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANDresC-1A&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=2EA043&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&bg_color=0D1117&color=C9D1D9&line=10B981&point=FFFFFF&area=true&hide_border=true" alt="Gráfica de actividad de GitHub"/>
-</p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=ANDresC-1A&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
 
 ---
 
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake-dark.svg" alt="Serpiente animada recorriendo mis contribuciones de GitHub"/>
-</p>
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+</div>
 
 ---
 
-## 🎯 Actualmente
+## 🤝 Connect With Me
 
-- 🎨 Perfeccionando mis habilidades en diseño y desarrollo frontend.
-- 🤖 Explorando nuevas aplicaciones de inteligencia artificial.
-- 🎮 Aprendiendo y experimentando con el desarrollo de videojuegos.
-- 🔐 Fortaleciendo mis conocimientos en ciberseguridad.
-- 💡 Construyendo proyectos y explorando nuevas tecnologías.
+<div align="center">
 
----
-
-## 🤝 Conecta conmigo
-
-<p align="center">
   <a href="https://github.com/ANDresC-1A">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
 
-<p align="center">
-  <i>«Si lo puedes imaginar, lo puedes programar».</i>
-</p>
+</div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:0B1220&height=90&section=footer" alt="Footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Gracias por visitar mi perfil. Siempre hay algo nuevo que imaginar, aprender y programar. 💚</sub>
-</p>
+  <h3>💚 Thanks for visiting my profile!</h3>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C45,100:238636&height=90&section=footer"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   END OF README                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
