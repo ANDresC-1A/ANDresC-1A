@@ -4,7 +4,6 @@
      DARK / EMERALD / DEVELOPER PORTFOLIO
 ===================================================== -->
 
-<!-- HERO -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn" alt="Andrés Contreras"/>
 </p>
@@ -88,13 +87,13 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 <p align="left">
   <a href="https://openai.com/codex">
-    <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+    <img src="https://img.shields.io/badge/OPENAI-CODEX-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
   </a>
   <a href="https://www.anthropic.com/claude">
-    <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+    <img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
   </a>
   <a href="https://www.deepseek.com/">
-    <img src="https://img.shields.io/badge/DeepSeek-AI-1684FC?style=for-the-badge" alt="DeepSeek"/>
+    <img src="https://img.shields.io/badge/DEEPSEEK-AI-1684FC?style=for-the-badge" alt="DeepSeek AI"/>
   </a>
 </p>
 
@@ -129,9 +128,19 @@ Aplicación web que integra modelos de inteligencia artificial y ofrece dos moda
 
 `Node.js` `JavaScript` `LangChain` `Ollama` `LLMs`
 
+**🤖 IA vs IA**
+
 <p align="center">
   <a href="https://github.com/ANDresC-1A/chess-ai">
-    <img src="https://github.com/ANDresC-1A/chess-ai/blob/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg?raw=true" width="100%" alt="Chess AI - Jugador contra IA"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20IA%20vs%20IA.jpeg" width="100%" alt="Chess AI - Inteligencia artificial contra inteligencia artificial"/>
+  </a>
+</p>
+
+**♟️ Jugador vs IA**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/chess-ai">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg" width="100%" alt="Chess AI - Jugador contra IA con analista de ajedrez"/>
   </a>
 </p>
 
@@ -204,17 +213,35 @@ El backend está a cargo de otros desarrolladores del equipo.
 
 **Plataforma web de Bingo multijugador en tiempo real.**
 
-Aplicación desarrollada con Django que permite a varios jugadores participar en una misma partida, compartir una sala y recibir actualizaciones del juego en tiempo real.
+Aplicación desarrollada con Django y Django Channels que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones en tiempo real mediante WebSockets.
 
-Incluye registro de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y un panel administrativo.
+Incluye autenticación, salas de espera, cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y panel administrativo.
 
 **Tecnologías:**
 
 `Python` `Django` `Django Channels` `WebSockets` `JavaScript` `SQLite`
 
+**🔐 Inicio de sesión**
+
 <p align="center">
   <a href="https://github.com/ANDresC-1A/bingo-claudenova">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/juego.jpeg" width="100%" alt="Bingo ClaudeNova - Partida multijugador"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/ini.jpeg" width="100%" alt="Bingo ClaudeNova - Inicio de sesión"/>
+  </a>
+</p>
+
+**⏳ Sala de espera**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/sala.jpeg" width="100%" alt="Bingo ClaudeNova - Sala de espera"/>
+  </a>
+</p>
+
+**👑 Panel administrativo**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/admin.jpeg" width="100%" alt="Bingo ClaudeNova - Panel administrativo"/>
   </a>
 </p>
 
