@@ -88,13 +88,13 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 <p align="left">
   <a href="https://openai.com/codex">
-    <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+    <img src="https://img.shields.io/badge/OPENAI-CODEX-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
   </a>
   <a href="https://www.anthropic.com/claude">
-    <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+    <img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
   </a>
   <a href="https://www.deepseek.com/">
-    <img src="https://img.shields.io/badge/DeepSeek-AI-1684FC?style=for-the-badge" alt="DeepSeek"/>
+    <img src="https://img.shields.io/badge/DEEPSEEK-AI-1684FC?style=for-the-badge" alt="DeepSeek AI"/>
   </a>
 </p>
 
@@ -129,9 +129,19 @@ Aplicación web que integra modelos de inteligencia artificial y ofrece dos moda
 
 `Node.js` `JavaScript` `LangChain` `Ollama` `LLMs`
 
+**🤖 IA vs IA**
+
 <p align="center">
   <a href="https://github.com/ANDresC-1A/chess-ai">
-    <img src="https://github.com/ANDresC-1A/chess-ai/blob/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg?raw=true" width="100%" alt="Chess AI - Jugador contra IA"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20IA%20vs%20IA.jpeg" width="100%" alt="Chess AI - Inteligencia artificial contra inteligencia artificial"/>
+  </a>
+</p>
+
+**♟️ Jugador vs IA**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/chess-ai">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg" width="100%" alt="Chess AI - Jugador contra IA con analista de ajedrez"/>
   </a>
 </p>
 
@@ -169,9 +179,16 @@ Plataforma para trabajar con circuitos digitales. Participé en la integración 
 
 Proyecto colaborativo orientado a la gestión de información y vigilancia agrícola, con componentes web, móvil y backend.
 
-En este proyecto desempeño el rol de **Scrum Master y desarrollador frontend**, trabajando junto con otro integrante en la construcción de la interfaz y participando en la coordinación del equipo, organización de actividades y seguimiento del desarrollo.
+En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**, trabajando junto con otro integrante en la construcción de la interfaz, la coordinación del equipo y el seguimiento del desarrollo.
 
-El backend está a cargo de otros desarrolladores del equipo.
+También participé en la **definición y estructuración de la arquitectura del backend**, estableciendo una base técnica y organizativa para facilitar el trabajo de los desarrolladores responsables de implementar los servicios y exponer las funcionalidades mediante API para su consumo desde los demás componentes del sistema.
+
+Mi participación comprende:
+
+- **Gestión del proyecto:** coordinación del equipo, organización de actividades y seguimiento del trabajo mediante Scrum.
+- **Desarrollo frontend:** construcción de interfaces y funcionalidades de la aplicación web.
+- **Arquitectura backend:** definición de la estructura y organización técnica del backend, preparando la base para su implementación e integración.
+- **Integración:** definición de los puntos de comunicación entre los componentes del sistema para facilitar el consumo de los servicios.
 
 **Componentes del proyecto:**
 
@@ -196,7 +213,7 @@ El backend está a cargo de otros desarrolladores del equipo.
 
 **Experiencia:**
 
-`Scrum` `Git` `GitHub` `Desarrollo colaborativo`
+`Scrum` `Arquitectura de software` `Frontend` `APIs` `Git` `GitHub` `Desarrollo colaborativo`
 
 ---
 
@@ -204,17 +221,35 @@ El backend está a cargo de otros desarrolladores del equipo.
 
 **Plataforma web de Bingo multijugador en tiempo real.**
 
-Aplicación desarrollada con Django que permite a varios jugadores participar en una misma partida, compartir una sala y recibir actualizaciones del juego en tiempo real.
+Aplicación desarrollada con Django que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones del juego en tiempo real.
 
-Incluye registro de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y un panel administrativo.
+Incluye registro de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y panel administrativo.
 
 **Tecnologías:**
 
 `Python` `Django` `Django Channels` `WebSockets` `JavaScript` `SQLite`
 
+**🔐 Inicio de sesión**
+
 <p align="center">
   <a href="https://github.com/ANDresC-1A/bingo-claudenova">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/juego.jpeg" width="100%" alt="Bingo ClaudeNova - Partida multijugador"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/ini.jpeg" width="100%" alt="Bingo ClaudeNova - Inicio de sesión"/>
+  </a>
+</p>
+
+**⏳ Sala de espera**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/sala.jpeg" width="100%" alt="Bingo ClaudeNova - Sala de espera"/>
+  </a>
+</p>
+
+**👑 Panel administrativo**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/admin.jpeg" width="100%" alt="Bingo ClaudeNova - Panel administrativo"/>
   </a>
 </p>
 
