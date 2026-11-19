@@ -1,58 +1,47 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1020,45:203a6f,100:06b6d4&text=Andr%C3%A9s%20Contreras&fontColor=ffffff&fontSize=48&fontAlignY=39&desc=Desarrollo%20de%20software%20%E2%80%A2%20Dise%C3%B1o%20%E2%80%A2%20IA&descAlignY=62&descSize=18" alt="Andrés Contreras. Desarrollo de software, diseño e inteligencia artificial">Estudiante de último semestre de Ingeniería de Sistemas
+<p><img src="assets/portada.svg" width="100%" alt="Andrés Contreras · Desarrollo de software, diseño e IA · Ingeniería de Sistemas: 90 % de la carrera, último semestre"></p>
 
-Proyectos · Tecnologías · Repositorios
-</div>👋 Sobre mí
-Soy Andrés Contreras, estudiante de último semestre de Ingeniería de Sistemas. Me gusta el diseño, especialmente ese momento en que una idea empieza a tomar forma y se convierte en algo que otras personas pueden usar.
+<h2>👋 Sobre mí</h2>
 
-Disfruto trabajar en distintas partes de un proyecto: pensar cómo se verá, construir sus funcionalidades y resolver los problemas que aparecen durante el desarrollo. He explorado el desarrollo web, las aplicaciones móviles y los videojuegos. También me interesa la inteligencia artificial y suelo aprender probando herramientas nuevas en mis propios proyectos.
+<p>Soy <strong>Andrés Contreras</strong>, estudiante de último semestre de Ingeniería de Sistemas. Me gusta el diseño, especialmente ese momento en que una idea empieza a tomar forma y se convierte en algo que otras personas pueden usar.</p>
 
-Me motiva experimentar y seguir mejorando lo que construyo. Actualmente estoy ampliando mis conocimientos en ciberseguridad, con interés en el desarrollo de aplicaciones más seguras.
-🚀 Proyectos destacados
-♟️ Chess AI
-<a href="https://github.com/ANDresC-1A/chess-ai"><img src="https://opengraph.githubassets.com/1/ANDresC-1A/chess-ai" alt="Vista previa del repositorio Chess AI" width="100%"></a>
+<p>Disfruto trabajar en distintas partes de un proyecto: pensar cómo se verá, construir sus funcionalidades y resolver los problemas que aparecen durante el desarrollo. He explorado el desarrollo web, las aplicaciones móviles y los videojuegos. También me interesa la inteligencia artificial y suelo aprender probando herramientas nuevas en mis propios proyectos.</p>
 
-Plataforma de ajedrez donde puedes jugar contra una IA con chat explicativo o enfrentar dos modelos entre sí. Proyecto desarrollado en equipo.
+<p>Me motiva tener ideas, experimentar y seguir mejorando lo que construyo. Actualmente estudio los fundamentos de <strong>ciberseguridad</strong> para incorporar prácticas de desarrollo seguro en mis aplicaciones.</p>
 
-JavaScript · Node.js · LangChain · Ollama
+<h2>Proyectos destacados</h2>
+<table>
+<tr><td width="34%"><a href="https://github.com/ANDresC-1A/chess-ai"><img width="300" src="assets/chess.svg" alt="Ilustración de ajedrez"></a></td><td><h3><a href="https://github.com/ANDresC-1A/chess-ai">Chess AI</a></h3><p>Juega contra un modelo que comenta sus jugadas o enfrenta dos modelos en el mismo tablero. Lo desarrollamos en equipo.</p><p><code>Node.js · LangChain · Ollama</code></p></td></tr>
+<tr><td width="34%"><a href="https://github.com/ANDresC-1A/CircuitBreve"><img width="300" src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" alt="Simulador de circuitos"></a></td><td><h3><a href="https://github.com/ANDresC-1A/CircuitBreve">CircuitBreve</a></h3><p>Integré el modelo de visión que reconoce las compuertas de un diagrama y genera código HDL para el simulador.</p><p><code>React · TypeScript · FastAPI</code></p></td></tr>
+<tr><td width="34%"><a href="https://github.com/ANDresC-1A/editor-colaborativo"><img width="300" src="https://raw.githubusercontent.com/ANDresC-1A/editor-colaborativo/main/IMAGEN1.png" alt="Captura del editor"></a></td><td><h3><a href="https://github.com/ANDresC-1A/editor-colaborativo">Editor colaborativo</a></h3><p>Varias personas pueden editar un documento a la vez, ver quién está conectado y recuperar versiones anteriores.</p><p><code>Django Channels · WebSockets</code></p></td></tr>
+<tr><td width="34%"><a href="https://github.com/ANDresC-1A/movil-frontend-sigat"><img width="300" src="https://raw.githubusercontent.com/ANDresC-1A/movil-frontend-sigat/develop/assets/images/login_hero.jpg" alt="Imagen de SIGAT Móvil"></a></td><td><h3><a href="https://github.com/ANDresC-1A/movil-frontend-sigat">SIGAT Móvil</a></h3><p>Permite identificar trampas por QR, fotografiar evidencias y registrar inspecciones de cultivos desde el campo.</p><p><code>Flutter · Dart</code></p></td></tr>
+</table>
+<p><strong>Paz y Salvo · New Cambridge School</strong><br>Gestión escolar de aulas y bandas musicales. <a href="https://github.com/ANDresC-1A/NewCambrige-frontend">Frontend</a> · <a href="https://github.com/ANDresC-1A/NewCambrige-backend">API</a></p>
+<p><a href="https://github.com/ANDresC-1A/web-frontend-sigat">SIGAT Web</a> · <a href="https://github.com/ANDresC-1A?tab=repositories">Todos mis repositorios →</a></p>
 
-Ver Chess AI →
-⚡ CircuitBreve
-<a href="https://github.com/ANDresC-1A/CircuitBreve"><img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" alt="Interfaz del simulador de circuitos CircuitBreve" width="100%"></a>
+<h2>Tecnologías y herramientas</h2>
 
-Simulador visual de circuitos lógicos con edición, compilación y simulación en tiempo real. Contribuí a integrar el análisis de imágenes con IA y la generación de código HDL.
+<h3>Frontend</h3>
 
-React · TypeScript · FastAPI · Ollama
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"></p>
 
-Ver CircuitBreve →
-📝 Editor colaborativo
-<a href="https://github.com/ANDresC-1A/editor-colaborativo"><img src="https://raw.githubusercontent.com/ANDresC-1A/editor-colaborativo/main/IMAGEN1.png" alt="Captura del editor colaborativo" width="100%"></a>
+<h3>Backend y datos</h3>
 
-Aplicación para crear y editar documentos en tiempo real. Incluye permisos de acceso, presencia de usuarios e historial de versiones.
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mysql,supabase&theme=dark&perline=7" alt="Node.js, Express, Python, Django, PostgreSQL, MySQL y Supabase"></p>
 
-Django · Django Channels · WebSockets
+<h3>Móvil, videojuegos y lenguajes</h3>
 
-Ver Editor colaborativo →
-🍑 SIGAT Móvil
-<a href="https://github.com/ANDresC-1A/movil-frontend-sigat"><img src="https://raw.githubusercontent.com/ANDresC-1A/movil-frontend-sigat/develop/assets/images/login_hero.jpg" alt="Imagen de la aplicación móvil SIGAT" width="100%"></a>
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity,java,c&theme=dark&perline=6" alt="Flutter, Dart, Android Studio, Unity, Java y C"></p>
 
-Aplicación móvil para registrar inspecciones de campo y dar seguimiento a la vigilancia fitosanitaria del cultivo de durazno. Forma parte de una plataforma que también incluye una interfaz web.
+<h3>Herramientas y despliegue</h3>
 
-Flutter · Dart · React · TypeScript
-
-Ver aplicación móvil → · Ver plataforma web →
-🎓 Paz y Salvo
-Sistema de gestión académica y administrativa para New Cambridge School, con aplicación web y API.
-
-Ver frontend → · Ver backend →
-🧰 Tecnologías y herramientas
-Frontend
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"></p>Backend y datos
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mysql,supabase&theme=dark&perline=7" alt="Node.js, Express, Python, Django, PostgreSQL, MySQL y Supabase"></p>Móvil, videojuegos y lenguajes
-<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity,java,c&theme=dark&perline=6" alt="Flutter, Dart, Android Studio, Unity, Java y C"></p>Herramientas y despliegue
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,vercel&theme=dark&perline=4" alt="Git, GitHub, Linux y Vercel"></p>
-<p align="center"><img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=white" alt="Render"></p>📊 Actividad en GitHub
+<p align="center"><img src="https://img.shields.io/badge/Render-1e293b?style=for-the-badge&logo=render&logoColor=white" alt="Render"></p>
+
+<h2>Actividad en GitHub</h2>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANDresC-1A&theme=github_dark" alt="Estadísticas públicas de GitHub" height="170">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANDresC-1A&theme=github_dark" alt="Lenguajes de los repositorios públicos" height="170">
-</p><div align="center">Explorar todos mis repositorios →
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0b1020,45:203a6f,100:06b6d4" alt=""></div>
+</p>
+
+
