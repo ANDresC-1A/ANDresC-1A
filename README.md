@@ -1,164 +1,290 @@
- <!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ANDRÉS CONTRERAS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- =====================================================
+     ANDRÉS CONTRERAS | GITHUB PROFILE
+     DARK / EMERALD / DEVELOPER PORTFOLIO
+===================================================== -->
 
-  <!-- Animated banner -->
-  <img width="78%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding banner"/>
+<!-- HERO -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn" alt="Andrés Contreras"/>
+</p>
 
-  <h1>Hi 👋, I'm Andrés Contreras</h1>
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Systems+Engineering+Student;Software+Developer+in+Progress;Frontend+%26+Backend+Development;Interested+in+Artificial+Intelligence;Exploring+Cybersecurity;Building+Ideas+Through+Code" alt="Typing SVG"/>
-  </a>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ANDresC-1A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/ANDresC-1A?label=Followers&style=flat&color=2ea043" alt="GitHub followers"/>
-  </p>
-
-  <p><i>"Si lo puedes imaginar, lo puedes programar."</i></p>
-
-</div>
+<p align="center">
+  <i>«Si lo puedes imaginar, lo puedes programar».</i>
+  <br/>
+  <sub>— Alejandro Taboada · Programación ATS</sub>
+</p>
 
 ---
 
-## 👨🏻‍💻 About Me
+## 👨‍💻 Sobre mí
 
-<img align="right" width="155" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding cat"/>
-
-¡Hola! Soy **Andrés Contreras**, estudiante de **Ingeniería de Sistemas**, apasionado por el desarrollo de software y la tecnología.
+¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología.
 
 Me gusta transformar ideas en proyectos reales, especialmente mediante el desarrollo frontend, el diseño de interfaces y la integración de soluciones tecnológicas.
 
-- 🎓 Estudiante de Ingeniería de Sistemas.
-- 💻 Interesado en el desarrollo de software y aplicaciones.
-- 🎨 Me gusta crear interfaces modernas y experiencias digitales.
-- 🧠 Me interesa explorar la inteligencia artificial.
-- 🎮 La tecnología y los videojuegos son dos de mis grandes intereses.
-- 🔐 Actualmente aprendiendo sobre ciberseguridad.
-- 🚀 Siempre buscando nuevos desafíos y conocimientos.
-- 🌱 Creo en aprender, experimentar y mejorar constantemente.
-
-<br clear="right"/>
+También me interesa explorar la inteligencia artificial, los videojuegos y la ciberseguridad. Disfruto aprender nuevas herramientas, trabajar en equipo y enfrentar desafíos que me permitan seguir creciendo como desarrollador.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎓 Formación académica
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,typescript,javascript,haskell" alt="Programming languages"/>
+<p align="center">
+  <strong>Ingeniería de Sistemas</strong>
 </p>
 
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend technologies"/>
+<p align="center">
+  <strong>90% completado</strong>
 </p>
 
-### ⚙️ Backend Development
+<table width="100%">
+  <tr>
+    <td width="90%" bgcolor="#10B981" height="12"></td>
+    <td width="10%" bgcolor="#30363D" height="12"></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend technologies"/>
-</p>
-
-### 🗄️ Databases & GIS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database technologies"/>
-  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre"/>
-</p>
-
-### 📱 Mobile Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development"/>
-</p>
-
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Development tools"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-Backend%20ORM-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Playwright-Testing-2EAD33?style=for-the-badge" alt="Playwright"/>
+<p align="center">
+  <sub>En la etapa final de mi formación universitaria.</sub>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🧰 Tecnologías y herramientas
 
-<div align="center">
+### 🎨 Frontend
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ANDresC-1A&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
+</p>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDresC-1A&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+### ⚙️ Backend y bases de datos
 
-  <br/><br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
+</p>
 
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANDresC-1A&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=2EA043&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+### 🎮 Videojuegos y desarrollo móvil
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Unity, Flutter, Dart y Android Studio"/>
+</p>
 
----
+### 🤖 Inteligencia artificial
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=ANDresC-1A&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🐍 A Snake Eating My Contributions Graph
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ANDresC-1A/ANDresC-1A/output/github-contribution-grid-snake.svg"/>
-  </picture>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-  <a href="https://github.com/ANDresC-1A">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="left">
+  <a href="https://openai.com/codex">
+    <img src="https://img.shields.io/badge/OPENAI-CODEX-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
   </a>
+  <a href="https://www.anthropic.com/claude">
+    <img src="https://img.shields.io/badge/ANTHROPIC-CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/>
+  </a>
+  <a href="https://www.deepseek.com/">
+    <img src="https://img.shields.io/badge/DEEPSEEK-AI-1684FC?style=for-the-badge" alt="DeepSeek AI"/>
+  </a>
+</p>
 
-</div>
+### 💻 Lenguajes de programación
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
+</p>
 
-  <h3>💚 Thanks for visiting my profile!</h3>
+### 🛠️ Herramientas y entornos
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C45,100:238636&height=90&section=footer"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
+</p>
 
-</div>
+---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   END OF README                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## 🚀 Proyectos destacados
+
+Proyectos en los que he participado, desarrollado funcionalidades y explorado diferentes tecnologías.
+
+### ♟️ Chess AI
+
+**Plataforma de ajedrez interactiva con inteligencia artificial.**
+
+Aplicación web que combina un tablero de ajedrez funcional con modelos de lenguaje (LLMs), utilizando LangChain para integrar diferentes proveedores de inteligencia artificial.
+
+Ofrece dos modalidades:
+
+- **🤖 IA vs IA:** permite seleccionar dos modelos de inteligencia artificial y observar cómo se enfrentan en una partida.
+- **♟️ Jugador vs IA:** permite jugar contra una IA mientras un chatbot explica sus movimientos y estrategias en tiempo real.
+
+**Tecnologías:**
+
+`Node.js` `JavaScript` `LangChain` `Ollama` `chess.js` `chessboard.js`
+
+**🤖 IA vs IA**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/chess-ai">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20IA%20vs%20IA.jpeg" width="100%" alt="Chess AI - Inteligencia artificial contra inteligencia artificial"/>
+  </a>
+</p>
+
+**♟️ Jugador vs IA**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/chess-ai">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/chess-ai/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg" width="100%" alt="Chess AI - Jugador contra IA con analista de ajedrez"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/chess-ai">↗ Ver repositorio</a>
+</p>
+
+---
+
+### ⚡ CircuitBreve
+
+**Simulador interactivo de circuitos digitales con inteligencia artificial.**
+
+Plataforma web que permite escribir circuitos mediante un lenguaje HDL propio, compilarlos en tiempo real y visualizar sus esquemas como diagramas SVG interactivos.
+
+También integra un servicio local de inteligencia artificial que permite analizar imágenes de circuitos y convertirlas en código HDL para el simulador.
+
+**Tecnologías:**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `Ollama` `MiniCPM-V`
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/CircuitBreve">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" width="100%" alt="CircuitBreve - Simulador de circuitos digitales"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/CircuitBreve">↗ Ver repositorio</a>
+  &nbsp; · &nbsp;
+  <a href="https://circuit-breve.vercel.app/">Ver aplicación</a>
+</p>
+
+---
+
+### 🌱 SIGAT
+
+**Sistema de Información para la Gestión y Análisis de la Vigilancia Fitosanitaria.**
+
+Proyecto colaborativo enfocado en la vigilancia fitosanitaria del cultivo de durazno y el seguimiento de la mosca del Mediterráneo (*Ceratitis capitata*).
+
+La plataforma integra tres componentes principales: aplicación web, aplicación móvil y backend, permitiendo conectar los procesos de gestión y vigilancia agrícola.
+
+En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**. También participé en la definición y estructuración de la arquitectura del backend, preparando una base técnica organizada para facilitar su implementación por parte de los desarrolladores responsables y la integración con los demás componentes.
+
+**Mi participación:**
+
+- **Scrum Master:** coordinación del equipo, organización de actividades y seguimiento del desarrollo mediante Scrum.
+- **Desarrollo frontend:** construcción de interfaces y funcionalidades de la aplicación web.
+- **Arquitectura backend:** definición de la estructura y organización técnica del servidor, preparando la base para la implementación de servicios y APIs.
+- **Integración:** organización de la comunicación entre los componentes web, móvil y backend para facilitar el consumo de los servicios.
+
+**Componentes del proyecto:**
+
+<table>
+  <tr>
+    <th>Componente</th>
+    <th>Tecnologías</th>
+    <th>Repositorio</th>
+  </tr>
+  <tr>
+    <td>Frontend web</td>
+    <td>React, TypeScript, Vite</td>
+    <td><a href="https://github.com/ANDresC-1A/web-frontend-sigat">Ver repositorio</a></td>
+  </tr>
+  <tr>
+    <td>Aplicación móvil</td>
+    <td>Flutter, Dart</td>
+    <td><a href="https://github.com/ANDresC-1A/movil-frontend-sigat">Ver repositorio</a></td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Python, FastAPI</td>
+    <td><a href="https://github.com/ANDresC-1A/backend-sigat">Ver repositorio</a></td>
+  </tr>
+</table>
+
+**Experiencia:**
+
+`Scrum` `Arquitectura de software` `React` `TypeScript` `APIs` `Git` `Desarrollo colaborativo`
+
+---
+
+### 🎱 Bingo ClaudeNova
+
+**Plataforma web de Bingo multijugador en tiempo real.**
+
+Aplicación web desarrollada con Django y Django Channels que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones automáticas mediante WebSockets.
+
+Incluye autenticación de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y administración de partidas.
+
+**Tecnologías:**
+
+`Python` `Django` `Django Channels` `WebSockets` `Daphne` `SQLite` `JavaScript`
+
+**🔐 Inicio de sesión**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/ini.jpeg" width="100%" alt="Bingo ClaudeNova - Inicio de sesión"/>
+  </a>
+</p>
+
+**🎱 Partida multijugador**
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/bingo-claudenova/main/juego.jpeg" width="100%" alt="Bingo ClaudeNova - Partida multijugador en tiempo real"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ANDresC-1A/bingo-claudenova">↗ Ver repositorio</a>
+</p>
+
+---
+
+### 🏫 Paz y Salvo · New Cambridge School
+
+**Sistema de gestión escolar.**
+
+Proyecto orientado a la gestión de aulas y bandas musicales dentro del entorno escolar.
+
+**Componentes:**
+
+- [Frontend](https://github.com/ANDresC-1A/NewCambrige-frontend)
+- [Backend / API](https://github.com/ANDresC-1A/NewCambrige-backend)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANDresC-1A&theme=github_dark" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANDresC-1A&theme=github_dark" alt="Lenguajes más utilizados"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&theme=github-compact&hide_border=true&area=true" alt="Actividad de GitHub"/>
+</p>
+
+---
+
+## 🎯 Actualmente
+
+- 🎨 Perfeccionando mis habilidades en diseño y desarrollo frontend.
+- 🤖 Explorando nuevas aplicaciones de inteligencia artificial.
+- 🎮 Aprendiendo y experimentando con el desarrollo de videojuegos.
+- 🔐 Fortaleciendo mis conocimientos en ciberseguridad y desarrollo seguro.
+- 💡 Construyendo proyectos y convirtiendo nuevas ideas en soluciones.
+
+---
+
+<p align="center">
+  <sub>Gracias por visitar mi perfil. Siempre hay algo nuevo que imaginar, aprender y programar.</sub>
+</p>
+
+<!-- END PROFILE README -->
