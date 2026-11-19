@@ -19,37 +19,30 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el diseño y la creación de soluciones mediante software.
+¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología.
 
-Hay algo que disfruto especialmente: **imaginar una idea y encontrar la manera de convertirla en algo real**.
+Me gusta transformar ideas en proyectos reales, especialmente mediante el desarrollo frontend, el diseño de interfaces y la integración de soluciones tecnológicas.
 
-El desarrollo frontend es una de las áreas que más me apasiona. Disfruto diseñar interfaces, experimentar con estilos, cuidar los detalles visuales y construir experiencias digitales funcionales y atractivas.
-
-También he trabajado en desarrollo backend, lógica de aplicaciones, integración de servicios y bases de datos. Me gusta comprender cómo funciona un sistema en su conjunto y participar en las diferentes etapas de su construcción.
-
-### 🤖 Inteligencia artificial
-
-Me interesa explorar el potencial de la inteligencia artificial, experimentar con modelos y descubrir nuevas formas de aplicar esta tecnología al desarrollo de software.
-
-### 🎮 Videojuegos
-
-Me atrae el mundo que existe detrás de los videojuegos: la programación, las mecánicas, la interacción y la posibilidad de construir experiencias interactivas.
-
-### 🔐 Ciberseguridad
-
-Actualmente estoy aprendiendo sobre ciberseguridad, fortaleciendo mis conocimientos en seguridad informática, protección de sistemas y desarrollo seguro.
-
-Me considero una persona curiosa y creativa, que disfruta experimentar con nuevas tecnologías y transformar ideas en proyectos.
+También me interesa explorar la inteligencia artificial, los videojuegos y la ciberseguridad. Disfruto aprender nuevas herramientas, trabajar en equipo y enfrentar desafíos que me permitan seguir creciendo como desarrollador.
 
 ---
 
 ## 🎓 Formación académica
 
-**Ingeniería de Sistemas**
+<p align="center">
+  <strong>Ingeniería de Sistemas</strong>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AVANCE%20UNIVERSITARIO-90%25-10B981?style=for-the-badge&labelColor=0B1220" alt="90% de avance universitario en Ingeniería de Sistemas"/>
+  <strong>90% completado</strong>
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="90%" bgcolor="#10B981" height="12"></td>
+    <td width="10%" bgcolor="#30363D" height="12"></td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>En la etapa final de mi formación universitaria.</sub>
@@ -111,16 +104,18 @@ Proyectos en los que he participado, desarrollado funcionalidades y explorado di
 
 ### ♟️ Chess AI
 
-**Plataforma de ajedrez con inteligencia artificial.**
+**Plataforma de ajedrez interactiva con inteligencia artificial.**
 
-Aplicación web que integra modelos de inteligencia artificial y ofrece dos modalidades:
+Aplicación web que combina un tablero de ajedrez funcional con modelos de lenguaje (LLMs), utilizando LangChain para integrar diferentes proveedores de inteligencia artificial.
 
-- **🤖 IA vs IA:** enfrenta dos modelos de inteligencia artificial en una partida de ajedrez.
-- **♟️ Jugador vs IA:** permite jugar contra una IA mientras un asistente conversacional analiza el tablero, explica movimientos y ofrece recomendaciones estratégicas para aprender y mejorar.
+Ofrece dos modalidades:
+
+- **🤖 IA vs IA:** permite seleccionar dos modelos de inteligencia artificial y observar cómo se enfrentan en una partida.
+- **♟️ Jugador vs IA:** permite jugar contra una IA mientras un chatbot explica sus movimientos y estrategias en tiempo real.
 
 **Tecnologías:**
 
-`Node.js` `JavaScript` `LangChain` `Ollama` `LLMs`
+`Node.js` `JavaScript` `LangChain` `Ollama` `chess.js` `chessboard.js`
 
 **🤖 IA vs IA**
 
@@ -148,11 +143,9 @@ Aplicación web que integra modelos de inteligencia artificial y ofrece dos moda
 
 **Simulador interactivo de circuitos digitales con inteligencia artificial.**
 
-Plataforma web que permite diseñar y simular circuitos lógicos mediante un lenguaje HDL propio, visualizar esquemas interactivos y analizar su comportamiento.
+Plataforma web que permite escribir circuitos mediante un lenguaje HDL propio, compilarlos en tiempo real y visualizar sus esquemas como diagramas SVG interactivos.
 
-Participé en la integración de un sistema local de inteligencia artificial para analizar imágenes de circuitos y generar código HDL compatible con el simulador.
-
-La integración utiliza FastAPI, Ollama y el modelo de visión MiniCPM-V.
+También integra un servicio local de inteligencia artificial que permite analizar imágenes de circuitos y convertirlas en código HDL para el simulador.
 
 **Tecnologías:**
 
@@ -178,16 +171,16 @@ La integración utiliza FastAPI, Ollama y el modelo de visión MiniCPM-V.
 
 Proyecto colaborativo enfocado en la vigilancia fitosanitaria del cultivo de durazno y el seguimiento de la mosca del Mediterráneo (*Ceratitis capitata*).
 
-La plataforma integra una aplicación web, una aplicación móvil y un backend para conectar los procesos de gestión y vigilancia agrícola.
+La plataforma integra tres componentes principales: aplicación web, aplicación móvil y backend, permitiendo conectar los procesos de gestión y vigilancia agrícola.
 
-En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**. También participé en la definición y estructuración de la arquitectura del backend, dejando organizada la base técnica para facilitar su implementación por parte de los desarrolladores responsables y la integración con los demás componentes.
+En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**. También participé en la definición y estructuración de la arquitectura del backend, preparando una base técnica organizada para facilitar su implementación por parte de los desarrolladores responsables y la integración con los demás componentes.
 
-**Mis responsabilidades:**
+**Mi participación:**
 
-- **Scrum Master:** coordinación del equipo, organización de actividades y seguimiento del desarrollo.
-- **Frontend web:** participación en la construcción de interfaces y funcionalidades utilizando React, TypeScript y Vite.
-- **Arquitectura backend:** definición y organización de la estructura técnica del servidor, preparando la base para la implementación de servicios y APIs.
-- **Integración:** estructuración de la comunicación entre los componentes web, móvil y backend.
+- **Scrum Master:** coordinación del equipo, organización de actividades y seguimiento del desarrollo mediante Scrum.
+- **Desarrollo frontend:** construcción de interfaces y funcionalidades de la aplicación web.
+- **Arquitectura backend:** definición de la estructura y organización técnica del servidor, preparando la base para la implementación de servicios y APIs.
+- **Integración:** organización de la comunicación entre los componentes web, móvil y backend para facilitar el consumo de los servicios.
 
 **Componentes del proyecto:**
 
@@ -209,7 +202,7 @@ En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend
   </tr>
   <tr>
     <td>Backend</td>
-    <td>Servicios y API</td>
+    <td>Python, FastAPI</td>
     <td><a href="https://github.com/ANDresC-1A/backend-sigat">Ver repositorio</a></td>
   </tr>
 </table>
@@ -226,11 +219,11 @@ En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend
 
 Aplicación web desarrollada con Django y Django Channels que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones automáticas mediante WebSockets.
 
-Incluye autenticación de usuarios, salas de espera, cartones de Bingo de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y administración de partidas.
+Incluye autenticación de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y administración de partidas.
 
 **Tecnologías:**
 
-`Python` `Django` `Django Channels` `WebSockets` `JavaScript` `SQLite`
+`Python` `Django` `Django Channels` `WebSockets` `Daphne` `SQLite` `JavaScript`
 
 **🔐 Inicio de sesión**
 
