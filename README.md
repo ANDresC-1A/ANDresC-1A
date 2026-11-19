@@ -10,15 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ANDresC-1A">
-    <img src="https://img.shields.io/badge/GITHUB-ANDresC--1A-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/INGENIER%C3%8DA%20DE%20SISTEMAS-ESTUDIANTE-059669?style=for-the-badge" alt="Ingeniería de Sistemas"/>
-  <img src="https://img.shields.io/badge/INTER%C3%89S-INTELIGENCIA%20ARTIFICIAL-064E3B?style=for-the-badge" alt="Inteligencia Artificial"/>
-  <img src="https://img.shields.io/badge/PASI%C3%93N-VIDEOJUEGOS-111827?style=for-the-badge" alt="Videojuegos"/>
-</p>
-
-<p align="center">
   <i>«Si lo puedes imaginar, lo puedes programar».</i>
   <br/>
   <sub>— Alejandro Taboada · Programación ATS</sub>
