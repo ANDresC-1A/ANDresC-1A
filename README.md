@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=180&section=header&text=Andr%C3%A9s%20Contreras&fontSize=38&fontColor=ffffff&fontAlignY=35" width="100%" alt="Andrés Contreras banner">
+  <img align="center" alt="Animated coding banner" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
 <h1 align="center">
   Hi, I'm <a href="https://github.com/ANDresC-1A">Andrés Contreras</a>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Animated coding icon">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Coding icon">
 </h1>
 
 <p align="center">
@@ -21,17 +21,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 </p>
 
-<img align="right" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="180" alt="Cat programming GIF">
-
-## 👨‍💻 Sobre mí
+## 👨‍💻 SOBRE MÍ
 
 ¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología.
 
 Me gusta transformar ideas en proyectos reales, especialmente mediante el desarrollo frontend, el diseño de interfaces y la integración de soluciones tecnológicas.
 
 También me interesa explorar la inteligencia artificial, los videojuegos y la ciberseguridad. Disfruto aprender nuevas herramientas, trabajar en equipo y enfrentar desafíos que me permitan seguir creciendo como desarrollador.
-
-<br clear="right"/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
@@ -101,7 +97,7 @@ También me interesa explorar la inteligencia artificial, los videojuegos y la c
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A SNAKE EATING MY CONTRIBUTIONS GRAPH
 
 <p align="center">
   <img src="https://i.imgur.com/x1KbuCq.gif" width="300" alt="Animated snake">
