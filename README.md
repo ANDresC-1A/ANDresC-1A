@@ -1,8 +1,8 @@
-
+ 
 <!-- =====================================================
      ANDRÉS CONTRERAS | GITHUB PROFILE
      DARK / EMERALD / DEVELOPER PORTFOLIO
-     ===================================================== -->
+===================================================== -->
 
 <!-- HERO -->
 <p align="center">
@@ -64,27 +64,95 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 ---
 
+## 🧰 Tecnologías y herramientas
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend y bases de datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
+</p>
+
+### 🎮 Videojuegos y desarrollo móvil
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Unity, Flutter, Dart y Android Studio"/>
+</p>
+
+### 🤖 Inteligencia artificial
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="Python y OpenCV"/>
+</p>
+
+### 💻 Lenguajes de programación
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
+</p>
+
+### 🛠️ Herramientas y entornos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
+</p>
+
+---
+
 ## 🚀 Proyectos destacados
 
 Proyectos en los que he participado, desarrollado funcionalidades y explorado diferentes tecnologías.
 
 ### ♟️ Chess AI
 
-**Inteligencia artificial aplicada al ajedrez**
+**Plataforma de ajedrez interactiva con inteligencia artificial y asistente de análisis en tiempo real.**
+
+Chess AI es una aplicación web que integra el ajedrez con modelos de inteligencia artificial, permitiendo experimentar diferentes formas de jugar, analizar posiciones y comprender mejor las decisiones que se toman durante una partida.
+
+El proyecto combina un tablero de ajedrez interactivo con la integración de modelos de lenguaje (LLMs), utilizando LangChain para orquestar las consultas a los modelos de inteligencia artificial.
+
+**🎮 Modalidades de juego**
+
+- **🤖 IA vs IA:** permite seleccionar dos modelos de inteligencia artificial y observar cómo se enfrentan entre sí en una partida de ajedrez. Cada modelo participa realizando sus movimientos, permitiendo observar sus decisiones y estrategias.
+
+- **♟️ Jugador vs IA:** permite que una persona juegue directamente contra un modelo de inteligencia artificial. Durante la partida, un asistente conversacional analiza la posición actual del tablero y explica diferentes aspectos del juego.
+
+**🧠 Asistente inteligente de ajedrez**
+
+Una de las funcionalidades principales es el analista de ajedrez integrado en el modo Jugador vs IA. Este asistente permite interactuar mediante un chat mientras se desarrolla la partida.
+
+Entre sus funcionalidades se encuentran:
+
+- Análisis de la posición actual del tablero.
+- Explicación de los movimientos y las posibles consecuencias.
+- Evaluación de la posición y del equilibrio material.
+- Identificación de ventajas posicionales y oportunidades estratégicas.
+- Sugerencias de jugadas y posibles planes.
+- Respuestas a preguntas sobre movimientos concretos.
+- Orientación para comprender mejor las estrategias y aprender ajedrez.
+
+De esta manera, Chess AI no busca únicamente ofrecer una experiencia de juego, sino también convertir cada partida en una oportunidad para aprender, analizar y mejorar.
+
+**🖥️ Vista del proyecto — Jugador vs IA**
 
 <p align="center">
-  <a href="https://github.com/ANDresC-1A/chess-ai">
-    <img src="assets/chess.svg" width="100%" alt="Chess AI"/>
-  </a>
+  <img src="docs/images/imagen%20Jugador%20vs%20IA.jpeg" width="100%" alt="Chess AI - Partida de ajedrez contra inteligencia artificial con analista conversacional"/>
 </p>
 
-Aplicación desarrollada en equipo que permite jugar ajedrez contra un modelo de inteligencia artificial que comenta sus movimientos o enfrentar dos modelos en el mismo tablero.
+**Tecnologías utilizadas:**
 
-**Tecnologías:**
+`Node.js` `JavaScript` `LangChain` `Ollama` `LLMs`
 
-`Node.js` `LangChain` `Ollama`
-
-[↗ Ver repositorio](https://github.com/ANDresC-1A/chess-ai)
+<p>
+  <a href="https://github.com/ANDresC-1A/chess-ai">
+    ↗ Ver repositorio de Chess AI
+  </a>
+</p>
 
 ---
 
@@ -92,13 +160,13 @@ Aplicación desarrollada en equipo que permite jugar ajedrez contra un modelo de
 
 **Visión artificial y generación de código HDL**
 
+Plataforma para trabajar con circuitos digitales. Participé en la integración del modelo de visión artificial encargado de reconocer compuertas lógicas en diagramas y generar código HDL para el simulador.
+
 <p align="center">
   <a href="https://github.com/ANDresC-1A/CircuitBreve">
     <img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" width="100%" alt="CircuitBreve"/>
   </a>
 </p>
-
-Plataforma para trabajar con circuitos digitales. Participé en la integración del modelo de visión artificial encargado de reconocer compuertas lógicas en diagramas y generar código HDL para el simulador.
 
 **Tecnologías:**
 
@@ -139,7 +207,9 @@ El backend está a cargo de otros desarrolladores del equipo.
   </tr>
 </table>
 
-**Experiencia:** `Scrum` `Git` `GitHub` `Desarrollo colaborativo`
+**Experiencia:**
+
+`Scrum` `Git` `GitHub` `Desarrollo colaborativo`
 
 ---
 
@@ -167,46 +237,6 @@ Proyecto orientado a la gestión de aulas y bandas musicales dentro del entorno 
 
 - [Frontend](https://github.com/ANDresC-1A/NewCambrige-frontend)
 - [Backend / API](https://github.com/ANDresC-1A/NewCambrige-backend)
-
----
-
-## 🧰 Tecnologías y herramientas
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
-</p>
-
-### ⚙️ Backend y bases de datos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
-</p>
-
-### 🎮 Videojuegos y desarrollo móvil
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Unity, Flutter, Dart y Android Studio"/>
-</p>
-
-### 🤖 Inteligencia artificial
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="Python y OpenCV"/>
-</p>
-
-### 💻 Lenguajes de programación
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
-</p>
-
-### 🛠️ Herramientas y entornos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
-</p>
 
 ---
 
