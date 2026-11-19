@@ -47,38 +47,13 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 **Ingeniería de Sistemas**
 
-<badge>90 % de avance académico</badge>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PROGRESO_UNIVERSITARIO-90%25-10B981?style=for-the-badge&labelColor=0B1220" alt="90% de avance en Ingeniería de Sistemas"/>
+  <img src="https://img.shields.io/badge/AVANCE%20UNIVERSITARIO-90%25-10B981?style=for-the-badge&labelColor=0B1220" alt="90% de avance universitario en Ingeniería de Sistemas"/>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/90/?width=600&color=10B981&suffix=%25" width="100%" alt="Progreso académico del 90%"/>
+  <sub>En la etapa final de mi formación universitaria.</sub>
 </p>
-
-<sub>Actualmente cursando la etapa final de mi formación universitaria en Ingeniería de Sistemas.</sub>
-
----
-
-## ✨ Lo que me gusta hacer
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>Diseñar interfaces, crear experiencias de usuario y construir aplicaciones visualmente atractivas.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎮 Videojuegos</h3>
-      <p>Explorar el desarrollo de videojuegos, programar mecánicas y crear experiencias interactivas.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🤖 Inteligencia artificial</h3>
-      <p>Experimentar con modelos y desarrollar soluciones utilizando inteligencia artificial.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -87,19 +62,19 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
 </p>
 
 ### ⚙️ Backend y bases de datos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Backend y bases de datos"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
 </p>
 
 ### 🎮 Videojuegos y desarrollo móvil
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Videojuegos y desarrollo móvil"/>
+  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Unity, Flutter, Dart y Android Studio"/>
 </p>
 
 ### 🤖 Inteligencia artificial
@@ -119,13 +94,13 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 ### 💻 Lenguajes de programación
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Lenguajes de programación"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
 </p>
 
 ### 🛠️ Herramientas y entornos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Herramientas y entornos"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
 </p>
 
 ---
@@ -171,67 +146,77 @@ Aplicación web que integra modelos de inteligencia artificial y ofrece dos moda
 
 ### ⚡ CircuitBreve
 
-**Visión artificial y generación de código HDL.**
+**Simulador interactivo de circuitos digitales con inteligencia artificial.**
 
-Plataforma para trabajar con circuitos digitales. Participé en la integración del modelo de visión artificial encargado de reconocer compuertas lógicas en diagramas y generar código HDL para el simulador.
+Plataforma web que permite diseñar y simular circuitos lógicos mediante un lenguaje HDL propio, visualizar esquemas interactivos y analizar su comportamiento.
+
+Participé en la integración de un sistema local de inteligencia artificial para analizar imágenes de circuitos y generar código HDL compatible con el simulador.
+
+La integración utiliza FastAPI, Ollama y el modelo de visión MiniCPM-V.
 
 **Tecnologías:**
 
-`React` `TypeScript` `FastAPI`
+`React` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `Ollama` `MiniCPM-V`
 
 <p align="center">
   <a href="https://github.com/ANDresC-1A/CircuitBreve">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" width="100%" alt="CircuitBreve"/>
+    <img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" width="100%" alt="CircuitBreve - Simulador de circuitos digitales"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ANDresC-1A/CircuitBreve">↗ Ver repositorio</a>
+  &nbsp; · &nbsp;
+  <a href="https://circuit-breve.vercel.app/">Ver aplicación</a>
 </p>
 
 ---
 
 ### 🌱 SIGAT
 
-**Sistema de gestión y vigilancia agrícola.**
+**Sistema de Información para la Gestión y Análisis de la Vigilancia Fitosanitaria.**
 
-Proyecto colaborativo orientado a la gestión de información y vigilancia agrícola, con componentes web, móvil y backend.
+Proyecto colaborativo enfocado en la vigilancia fitosanitaria del cultivo de durazno y el seguimiento de la mosca del Mediterráneo (*Ceratitis capitata*).
 
-En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**, trabajando junto con otro integrante en la construcción de la interfaz, la coordinación del equipo y el seguimiento del desarrollo.
+La plataforma integra una aplicación web, una aplicación móvil y un backend para conectar los procesos de gestión y vigilancia agrícola.
 
-También participé en la **definición y estructuración de la arquitectura del backend**, estableciendo una base técnica y organizativa para facilitar el trabajo de los desarrolladores responsables de implementar los servicios y exponer las funcionalidades mediante API para su consumo desde los demás componentes del sistema.
+En este proyecto desempeño los roles de **Scrum Master y desarrollador frontend**. También participé en la definición y estructuración de la arquitectura del backend, dejando organizada la base técnica para facilitar su implementación por parte de los desarrolladores responsables y la integración con los demás componentes.
 
-Mi participación comprende:
+**Mis responsabilidades:**
 
-- **Gestión del proyecto:** coordinación del equipo, organización de actividades y seguimiento del trabajo mediante Scrum.
-- **Desarrollo frontend:** construcción de interfaces y funcionalidades de la aplicación web.
-- **Arquitectura backend:** definición de la estructura y organización técnica del backend, preparando la base para su implementación e integración.
-- **Integración:** definición de los puntos de comunicación entre los componentes del sistema para facilitar el consumo de los servicios.
+- **Scrum Master:** coordinación del equipo, organización de actividades y seguimiento del desarrollo.
+- **Frontend web:** participación en la construcción de interfaces y funcionalidades utilizando React, TypeScript y Vite.
+- **Arquitectura backend:** definición y organización de la estructura técnica del servidor, preparando la base para la implementación de servicios y APIs.
+- **Integración:** estructuración de la comunicación entre los componentes web, móvil y backend.
 
 **Componentes del proyecto:**
 
 <table>
   <tr>
     <th>Componente</th>
+    <th>Tecnologías</th>
     <th>Repositorio</th>
   </tr>
   <tr>
     <td>Frontend web</td>
-    <td><a href="https://github.com/ANDresC-1A/web-frontend-sigat">web-frontend-sigat</a></td>
+    <td>React, TypeScript, Vite</td>
+    <td><a href="https://github.com/ANDresC-1A/web-frontend-sigat">Ver repositorio</a></td>
   </tr>
   <tr>
     <td>Aplicación móvil</td>
-    <td><a href="https://github.com/ANDresC-1A/movil-frontend-sigat">movil-frontend-sigat</a></td>
+    <td>Flutter, Dart</td>
+    <td><a href="https://github.com/ANDresC-1A/movil-frontend-sigat">Ver repositorio</a></td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td><a href="https://github.com/ANDresC-1A/backend-sigat">backend-sigat</a></td>
+    <td>Servicios y API</td>
+    <td><a href="https://github.com/ANDresC-1A/backend-sigat">Ver repositorio</a></td>
   </tr>
 </table>
 
 **Experiencia:**
 
-`Scrum` `Arquitectura de software` `Frontend` `APIs` `Git` `GitHub` `Desarrollo colaborativo`
+`Scrum` `Arquitectura de software` `React` `TypeScript` `APIs` `Git` `Desarrollo colaborativo`
 
 ---
 
@@ -239,9 +224,9 @@ Mi participación comprende:
 
 **Plataforma web de Bingo multijugador en tiempo real.**
 
-Aplicación desarrollada con Django que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones del juego en tiempo real.
+Aplicación web desarrollada con Django y Django Channels que permite a varios jugadores participar en una misma partida, compartir salas y recibir actualizaciones automáticas mediante WebSockets.
 
-Incluye registro de usuarios, salas de espera, generación de cartones de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y panel administrativo.
+Incluye autenticación de usuarios, salas de espera, cartones de Bingo de 75 bolas, sorteo de balotas, chat entre jugadores, validación de BINGO y administración de partidas.
 
 **Tecnologías:**
 
