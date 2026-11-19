@@ -16,7 +16,7 @@
 <p align="center">
   <i>"Si lo puedes imaginar, lo puedes programar."</i>
   <br>
-  <b>— Alejandro Taboada</b>
+  <b> Alejandro Taboada</b>
 </p>
 
 <p align="center">
