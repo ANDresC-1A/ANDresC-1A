@@ -1,19 +1,18 @@
- 
-<!-- =====================================================
-     ANDRÉS CONTRERAS | GITHUB PROFILE
-     DARK / EMERALD / DEVELOPER PORTFOLIO
-===================================================== -->
 
-<!-- HERO -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn" alt="Andrés Contreras"/>
-</p>
 
-<p align="center">
-  <i>«Si lo puedes imaginar, lo puedes programar».</i>
-  <br/>
-  <sub>— Alejandro Taboada · Programación ATS</sub>
-</p>
+\<!-- =====================================================      ANDRÉS CONTRERAS | GITHUB PROFILE      DARK / EMERALD / DEVELOPER PORTFOLIO ===================================================== -->
+
+\<!-- HERO -->
+
+\<p align="center">
+&#x20; \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:064E3B,100:10B981&height=220&section=header&text=Andr%C3%A9s%20Contreras&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games&descAlignY=60&descSize=15&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1220,50:064E3B,100:10B981\&height=220\&section=header\&text=Andr%C3%A9s%20Contreras\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=Software%20Developer%20%7C%20Frontend%20%7C%20Artificial%20Intelligence%20%7C%20Video%20Games\&descAlignY=60\&descSize=15\&animation=fadeIn)" alt="Andrés Contreras"/>
+\</p>
+
+\<p align="center">
+&#x20; \<i>«Si lo puedes imaginar, lo puedes programar».\</i>
+&#x20; \<br/>
+&#x20; \<sub>— Alejandro Taboada · Programación ATS\</sub>
+\</p>
 
 ---
 
@@ -45,22 +44,22 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 ## ✨ Lo que me gusta hacer
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>Diseñar interfaces, crear experiencias de usuario, experimentar con estilos y construir aplicaciones visualmente atractivas.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎮 Videojuegos</h3>
-      <p>Explorar el desarrollo de videojuegos, programar mecánicas y descubrir nuevas formas de construir experiencias interactivas.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🤖 Inteligencia artificial</h3>
-      <p>Experimentar con modelos, explorar nuevas herramientas y desarrollar soluciones utilizando inteligencia artificial.</p>
-    </td>
-  </tr>
-</table>
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="33%" align="center" valign="top">
+&#x20;     \<h3>🎨 Frontend\</h3>
+&#x20;     \<p>Diseñar interfaces, crear experiencias de usuario, experimentar con estilos y construir aplicaciones visualmente atractivas.\</p>
+&#x20;   \</td>
+&#x20;   \<td width="33%" align="center" valign="top">
+&#x20;     \<h3>🎮 Videojuegos\</h3>
+&#x20;     \<p>Explorar el desarrollo de videojuegos, programar mecánicas y descubrir nuevas formas de construir experiencias interactivas.\</p>
+&#x20;   \</td>
+&#x20;   \<td width="33%" align="center" valign="top">
+&#x20;     \<h3>🤖 Inteligencia artificial\</h3>
+&#x20;     \<p>Experimentar con modelos, explorar nuevas herramientas y desarrollar soluciones utilizando inteligencia artificial.\</p>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
 ---
 
@@ -68,39 +67,39 @@ Me considero una persona curiosa y creativa, que disfruta experimentar con nueva
 
 ### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind\&theme=dark)" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite y Tailwind CSS"/>
+\</p>
 
 ### ⚙️ Backend y bases de datos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase&theme=dark](https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres,mysql,supabase\&theme=dark)" alt="Node.js, Express, Python, Django, FastAPI, PostgreSQL, MySQL y Supabase"/>
+\</p>
 
 ### 🎮 Videojuegos y desarrollo móvil
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark" alt="Unity, Flutter, Dart y Android Studio"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio&theme=dark](https://skillicons.dev/icons?i=unity,flutter,dart,androidstudio\&theme=dark)" alt="Unity, Flutter, Dart y Android Studio"/>
+\</p>
 
 ### 🤖 Inteligencia artificial
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="Python y OpenCV"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,opencv&theme=dark](https://skillicons.dev/icons?i=python,opencv\&theme=dark)" alt="Python y OpenCV"/>
+\</p>
 
 ### 💻 Lenguajes de programación
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,c,python,js,ts,dart&theme=dark](https://skillicons.dev/icons?i=java,c,python,js,ts,dart\&theme=dark)" alt="Java, C, Python, JavaScript, TypeScript y Dart"/>
+\</p>
 
 ### 🛠️ Herramientas y entornos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,linux,vercel,docker,vscode\&theme=dark)" alt="Git, GitHub, Linux, Vercel, Docker y Visual Studio Code"/>
+\</p>
 
 ---
 
@@ -110,67 +109,42 @@ Proyectos en los que he participado, desarrollado funcionalidades y explorado di
 
 ### ♟️ Chess AI
 
-**Plataforma de ajedrez interactiva con inteligencia artificial y asistente de análisis en tiempo real.**
+**Plataforma de ajedrez con inteligencia artificial.**
 
-Chess AI es una aplicación web que integra el ajedrez con modelos de inteligencia artificial, permitiendo experimentar diferentes formas de jugar, analizar posiciones y comprender mejor las decisiones que se toman durante una partida.
+Aplicación web que integra modelos de inteligencia artificial para ofrecer dos modalidades de juego:
 
-El proyecto combina un tablero de ajedrez interactivo con la integración de modelos de lenguaje (LLMs), utilizando LangChain para orquestar las consultas a los modelos de inteligencia artificial.
+- **🤖 IA vs IA:** permite enfrentar dos modelos de inteligencia artificial en una partida de ajedrez.
+- **♟️ Jugador vs IA:** permite jugar contra una IA mientras un asistente conversacional analiza el tablero, explica movimientos y ofrece recomendaciones estratégicas para aprender y mejorar.
 
-**🎮 Modalidades de juego**
-
-- **🤖 IA vs IA:** permite seleccionar dos modelos de inteligencia artificial y observar cómo se enfrentan entre sí en una partida de ajedrez. Cada modelo participa realizando sus movimientos, permitiendo observar sus decisiones y estrategias.
-
-- **♟️ Jugador vs IA:** permite que una persona juegue directamente contra un modelo de inteligencia artificial. Durante la partida, un asistente conversacional analiza la posición actual del tablero y explica diferentes aspectos del juego.
-
-**🧠 Asistente inteligente de ajedrez**
-
-Una de las funcionalidades principales es el analista de ajedrez integrado en el modo Jugador vs IA. Este asistente permite interactuar mediante un chat mientras se desarrolla la partida.
-
-Entre sus funcionalidades se encuentran:
-
-- Análisis de la posición actual del tablero.
-- Explicación de los movimientos y las posibles consecuencias.
-- Evaluación de la posición y del equilibrio material.
-- Identificación de ventajas posicionales y oportunidades estratégicas.
-- Sugerencias de jugadas y posibles planes.
-- Respuestas a preguntas sobre movimientos concretos.
-- Orientación para comprender mejor las estrategias y aprender ajedrez.
-
-De esta manera, Chess AI no busca únicamente ofrecer una experiencia de juego, sino también convertir cada partida en una oportunidad para aprender, analizar y mejorar.
-
-**🖥️ Vista del proyecto — Jugador vs IA**
-
-<p align="center">
-  <img src="docs/images/imagen%20Jugador%20vs%20IA.jpeg" width="100%" alt="Chess AI - Partida de ajedrez contra inteligencia artificial con analista conversacional"/>
-</p>
-
-**Tecnologías utilizadas:**
+**Tecnologías:**
 
 `Node.js` `JavaScript` `LangChain` `Ollama` `LLMs`
 
-<p>
-  <a href="https://github.com/ANDresC-1A/chess-ai">
-    ↗ Ver repositorio de Chess AI
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/ANDresC-1A/chess-ai](https://github.com/ANDresC-1A/chess-ai)">
+&#x20;   \<img src="[https://github.com/ANDresC-1A/chess-ai/blob/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg?raw=true](https://github.com/ANDresC-1A/chess-ai/blob/main/docs/images/imagen%20Jugador%20vs%20IA.jpeg?raw=true)" width="100%" alt="Chess AI - Jugador contra inteligencia artificial"/>
+&#x20; \</a>
+\</p>
+
+[↗ Ver repositorio](https://github.com/ANDresC-1A/chess-ai)
 
 ---
 
 ### ⚡ CircuitBreve
 
-**Visión artificial y generación de código HDL**
+**Visión artificial y generación de código HDL.**
 
 Plataforma para trabajar con circuitos digitales. Participé en la integración del modelo de visión artificial encargado de reconocer compuertas lógicas en diagramas y generar código HDL para el simulador.
-
-<p align="center">
-  <a href="https://github.com/ANDresC-1A/CircuitBreve">
-    <img src="https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png" width="100%" alt="CircuitBreve"/>
-  </a>
-</p>
 
 **Tecnologías:**
 
 `React` `TypeScript` `FastAPI`
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/ANDresC-1A/CircuitBreve](https://github.com/ANDresC-1A/CircuitBreve)">
+&#x20;   \<img src="[https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png](https://raw.githubusercontent.com/ANDresC-1A/CircuitBreve/bibi/public/sc-temaoscuro.png)" width="100%" alt="CircuitBreve"/>
+&#x20; \</a>
+\</p>
 
 [↗ Ver repositorio](https://github.com/ANDresC-1A/CircuitBreve)
 
@@ -178,7 +152,7 @@ Plataforma para trabajar con circuitos digitales. Participé en la integración 
 
 ### 🌱 SIGAT
 
-**Sistema de gestión y vigilancia agrícola**
+**Sistema de gestión y vigilancia agrícola.**
 
 Proyecto colaborativo orientado a la gestión de información y vigilancia agrícola, con componentes web, móvil y backend.
 
@@ -188,24 +162,24 @@ El backend está a cargo de otros desarrolladores del equipo.
 
 **Componentes del proyecto:**
 
-<table>
-  <tr>
-    <th>Componente</th>
-    <th>Repositorio</th>
-  </tr>
-  <tr>
-    <td>Frontend web</td>
-    <td><a href="https://github.com/ANDresC-1A/web-frontend-sigat">web-frontend-sigat</a></td>
-  </tr>
-  <tr>
-    <td>Aplicación móvil</td>
-    <td><a href="https://github.com/ANDresC-1A/movil-frontend-sigat">movil-frontend-sigat</a></td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td><a href="https://github.com/ANDresC-1A/backend-sigat">backend-sigat</a></td>
-  </tr>
-</table>
+\<table>
+&#x20; \<tr>
+&#x20;   \<th>Componente\</th>
+&#x20;   \<th>Repositorio\</th>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td>Frontend web\</td>
+&#x20;   \<td>\<a href="[https://github.com/ANDresC-1A/web-frontend-sigat](https://github.com/ANDresC-1A/web-frontend-sigat)">web-frontend-sigat\</a>\</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td>Aplicación móvil\</td>
+&#x20;   \<td>\<a href="[https://github.com/ANDresC-1A/movil-frontend-sigat](https://github.com/ANDresC-1A/movil-frontend-sigat)">movil-frontend-sigat\</a>\</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td>Backend\</td>
+&#x20;   \<td>\<a href="[https://github.com/ANDresC-1A/backend-sigat](https://github.com/ANDresC-1A/backend-sigat)">backend-sigat\</a>\</td>
+&#x20; \</tr>
+\</table>
 
 **Experiencia:**
 
@@ -215,13 +189,19 @@ El backend está a cargo de otros desarrolladores del equipo.
 
 ### 📝 Editor colaborativo
 
-**Edición de documentos en tiempo real**
+**Edición de documentos en tiempo real.**
 
-Aplicación que permite que varias personas trabajen simultáneamente sobre un mismo documento, visualicen quién está conectado y recuperen versiones anteriores.
+Aplicación que permite que varias personas trabajen simultáneamente sobre un mismo documento, visualicen quién está conectado y consulten versiones anteriores.
 
 **Tecnologías:**
 
-`Django Channels` `WebSockets`
+`Django` `Django Channels` `WebSockets`
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/ANDresC-1A/editor-colaborativo](https://github.com/ANDresC-1A/editor-colaborativo)">
+&#x20;   \<img src="[https://github.com/ANDresC-1A/editor-colaborativo/blob/main/imagen2.png?raw=true](https://github.com/ANDresC-1A/editor-colaborativo/blob/main/imagen2.png?raw=true)" width="100%" alt="Editor colaborativo"/>
+&#x20; \</a>
+\</p>
 
 [↗ Ver repositorio](https://github.com/ANDresC-1A/editor-colaborativo)
 
@@ -229,7 +209,7 @@ Aplicación que permite que varias personas trabajen simultáneamente sobre un m
 
 ### 🏫 Paz y Salvo · New Cambridge School
 
-**Sistema de gestión escolar**
+**Sistema de gestión escolar.**
 
 Proyecto orientado a la gestión de aulas y bandas musicales dentro del entorno escolar.
 
@@ -242,14 +222,14 @@ Proyecto orientado a la gestión de aulas y bandas musicales dentro del entorno 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANDresC-1A&theme=github_dark" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANDresC-1A&theme=github_dark" alt="Lenguajes más utilizados"/>
-</p>
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANDresC-1A&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANDresC-1A\&theme=github_dark)" alt="Estadísticas de GitHub"/>
+&#x20; \<img height="170" src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANDresC-1A&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANDresC-1A\&theme=github_dark)" alt="Lenguajes más utilizados"/>
+\</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&theme=github-compact&hide_border=true&area=true" alt="Actividad de GitHub"/>
-</p>
+\<p align="center">
+&#x20; \<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=ANDresC-1A\&theme=github-compact\&hide_border=true\&area=true)" alt="Actividad de GitHub"/>
+\</p>
 
 ---
 
@@ -263,8 +243,8 @@ Proyecto orientado a la gestión de aulas y bandas musicales dentro del entorno 
 
 ---
 
-<p align="center">
-  <sub>Gracias por visitar mi perfil. Siempre hay algo nuevo que imaginar, aprender y programar.</sub>
-</p>
+\<p align="center">
+&#x20; \<sub>Gracias por visitar mi perfil. Siempre hay algo nuevo que imaginar, aprender y programar.\</sub>
+\</p>
 
-<!-- END PROFILE README -->
+\<!-- END PROFILE README -->
