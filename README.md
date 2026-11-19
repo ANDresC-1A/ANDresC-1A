@@ -14,7 +14,7 @@
 <p align="center">
   <i>"Si lo puedes imaginar, lo puedes programar."</i>
   <br>
-  <b>— Alejandro Taboada</b>
+  <b> Alejandro Taboada</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me"></picture> SOBRE MÍ
 
 <p align="center">
-  <code>root :~ whoami</code>
+  <code>root :~ 
 </p>
 
 > ¡Hola! Soy **Andrés Contreras**, estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología. 💻
