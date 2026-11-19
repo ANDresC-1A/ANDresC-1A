@@ -14,7 +14,7 @@
 <p align="center">
   <i>"Si lo puedes imaginar, lo puedes programar."</i>
   <br>
-  <b> Alejandro Taboada</b>
+  <b> ~Alejandro Taboada</b>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 </p>
 
-## 🐍 A SNAKE EATING MY CONTRIBUTIONS GRAPH
+## MY CONTRIBUTIONS GRAPH
 
 <p align="center">
   <img src="https://i.imgur.com/x1KbuCq.gif" width="300" alt="Animated snake">
